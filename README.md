@@ -1,4 +1,4 @@
-- 👋 Hi, I’m urake
+- 👋 Hi, I’m binayak
 - 👀 I’m interested in problems
 - 🌱 I’m currently learning system design
 - 💞️ I’m looking to collaborate on algorithms and ml projects
